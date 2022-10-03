@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/wW299tVfoDhl3SVkYx/giphy.gif" width="300"/>
 </div>
 <div id="badges" align="center">
-  <a href="www.linkedin.com/in/lorena-sánchez-913090201">
+  <a href="https://www.linkedin.com/in/lorena-sánchez-913090201">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
