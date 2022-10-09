@@ -23,13 +23,13 @@ Estudiante de Ingeniería de Sistemas de la Universidad Nacional Abierta y a Dis
 ### EDUCACIÓN
 
 - :book: Digital House – Cali, Valle del Cauca
-Certified Tech Developer. Octubre 2021 – Actualmente 
+-Certified Tech Developer. Octubre 2021 – Actualmente 
 
 - :book: Universidad Nacional Abierta y a Distancia – Palmira, Valle del Cauca
-Ingeniería de Sistemas. Agosto 2021 – Actualmente
+-Ingeniería de Sistemas. Agosto 2021 – Actualmente
 
 - :book: Universidad Nacional Abierta y a Distancia – Palmira, Valle del Cauca 
-Tecnología en Regencia de Farmacia. Julio 2017 – Marzo 2021 
+-Tecnología en Regencia de Farmacia. Julio 2017 – Marzo 2021 
 
 ### PROYECTOS
 
