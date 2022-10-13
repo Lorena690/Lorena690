@@ -20,7 +20,7 @@
 ### :woman_technologist: ABOUT ME :
 Estudiante de Ingeniería de Sistemas de la Universidad Nacional Abierta y a Distancia y estudiante becada en Certified Tech Developer en Digital House, me apasiona mucho estar en constante aprendizaje de nuevas habilidades, encontrar soluciones a retos de la vida real utilizando ingeniería. Me encuentro muy emocionada y entusiasmada por comenzar este nuevo camino como desarrolladora de software, siempre dispuesta en aportar mis conocimientos y trabajo en equipo que he adquirido en mis otras experiencias laborales.
 
-### EDUCACIÓN
+### EDUCATION
 
 - :book: Digital House – Cali, Valle del Cauca
 -Certified Tech Developer. Octubre 2021 – Actualmente 
@@ -31,7 +31,7 @@ Estudiante de Ingeniería de Sistemas de la Universidad Nacional Abierta y a Dis
 - :book: Universidad Nacional Abierta y a Distancia – Palmira, Valle del Cauca 
 -Tecnología en Regencia de Farmacia. Julio 2017 – Marzo 2021 
 
-### PROYECTOS
+### PROJECTS
 
 - :white_check_mark: Proyecto Manage – Proyecto en el cual se realizó un maquetado utilizando HTML semántico y los conceptos principales de CSS.
 https://lorena690.github.io/ProyectoHTML/ 
