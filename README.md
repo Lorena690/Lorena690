@@ -78,6 +78,6 @@ https://github.com/Lorena690/ProyectoSpaMascotas
 ### :fire: MY STATS :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Lorena690&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lorena690&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lorena690&exclude_repo=LSFront1,ExamenPractico1,PrimerExamenII,primerensayo,ProyectoHTML,ProyectoFinalFarmacia,ProyectoSpaMascotas&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
