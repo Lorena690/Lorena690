@@ -34,22 +34,34 @@ Estudiante de Ingeniería de Sistemas de la Universidad Nacional Abierta y a Dis
 ### PROJECTS
 
 - :white_check_mark: Proyecto Usuarios Spring Boot - Proyecto en Java y Spring Boot en el cual se maneja un crud para el usuario y manejo de JWT.
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Lorena690&repo=Usuarios-Spring-Boot&theme=dracula)](https://github.com/Lorena690/Usuarios-Spring-Boot)
 
 - :white_check_mark: Proyecto Manage – Proyecto en el cual se realizó un maquetado utilizando HTML semántico y los conceptos principales de CSS.
-https://lorena690.github.io/ProyectoHTML/ 
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Lorena690&repo=ProyectoHTML&theme=dracula)](https://github.com/Lorena690/ProyectoHTML)
+
 
 - :white_check_mark: Proyecto Final Juego - Proyecto en Java en el cual se utilizan patrones de diseño tales como Composite, Singleton y Factory para implementar una solución óptima al problema planteado.
-https://github.com/Lorena690/ProyectoFinalJuego
+
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Lorena690&repo=ProyectoFinalJuego&theme=dracula)](https://github.com/Lorena690/ProyectoFinalJuego)
+
 
 - :white_check_mark: Proyecto Final Farmacia - Proyecto en el cual se implementó conceptos principales de Programación Orientada a Objetos, en el cual se utiliza herencia, clases abstractas y sobre carga de métodos.
-https://github.com/Lorena690/ProyectoFinalFarmacia
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Lorena690&repo=ProyectoFinalFarmacia&theme=dracula)](https://github.com/Lorena690/ProyectoFinalFarmacia)
+
 
 - :white_check_mark: Proyecto Inicial Front End - Proyecto en el cual se utiliza JavaScript para el manejo de captura de datos y del DOM.
-https://lorena690.github.io/ProyectoInicialFrontEnd/ 
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Lorena690&repo=ProyectoInicialFrontEnd&theme=dracula)](https://github.com/Lorena690/ProyectoInicialFrontEnd)
+
 
 - :white_check_mark: Proyecto en C# en el cual se implementó patrones de diseño tales como Composite, Factory y Singleton para implementar una solución óptima al problema propuesto.
-https://github.com/Lorena690/ProyectoSpaMascotas 
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Lorena690&repo=ProyectoSpaMascotas&theme=dracula)](https://github.com/Lorena690/ProyectoSpaMascotas)
+
 
 ### :hammer_and_wrench: MAIN SKILLS :
 <div>
