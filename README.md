@@ -40,7 +40,7 @@ Estudiante de Ingeniería de Sistemas de la Universidad Nacional Abierta y a Dis
 
 - :white_check_mark: Proyecto Usuarios Spring Boot - Proyecto en Java y Spring Boot en el cual se maneja un crud para el usuario y manejo de JWT.
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Lorena690&repo=SpringBootUsuarios&theme=dracula)](https://github.com/Lorena690/SpringBootUsuarios)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Lorena690&repo=Spring-Boot-Usuarios&theme=dracula)](https://github.com/Lorena690/Spring-Boot-Usuarios)
 
 
 - :white_check_mark: Proyecto Manage – Proyecto en el cual se realizó un maquetado utilizando HTML semántico y los conceptos principales de CSS.
@@ -95,5 +95,3 @@ Estudiante de Ingeniería de Sistemas de la Universidad Nacional Abierta y a Dis
 
 ### :fire: MY STATS :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Lorena690&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lorena690&exclude_repo=LSFront1,ExamenPractico1,PrimerExamenII,primerensayo,ProyectoHTML,ProyectoFinalFarmacia,ProyectoSpaMascotas&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
