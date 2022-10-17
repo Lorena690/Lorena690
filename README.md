@@ -34,7 +34,7 @@ Estudiante de Ingeniería de Sistemas de la Universidad Nacional Abierta y a Dis
 ### PROJECTS
 
 - :white_check_mark: Proyecto Usuarios Spring Boot - Proyecto en Java y Spring Boot en el cual se maneja un crud para el usuario y manejo de JWT.
-https://github.com/Lorena690/Usuarios-Spring-Boot
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Lorena690&repo=Usuarios-Spring-Boot)](https://github.com/Lorena690/Usuarios-Spring-Boot)
 
 - :white_check_mark: Proyecto Manage – Proyecto en el cual se realizó un maquetado utilizando HTML semántico y los conceptos principales de CSS.
 https://lorena690.github.io/ProyectoHTML/ 
