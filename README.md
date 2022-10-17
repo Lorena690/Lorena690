@@ -33,9 +33,15 @@ Estudiante de Ingeniería de Sistemas de la Universidad Nacional Abierta y a Dis
 
 ### PROJECTS
 
+- :white_check_mark: Proyecto Spring Boot Equipos - Proyecto Spring donde se crearon servicios para el manejo de equipos en una liga y se crea la documentación por medio de Swagger.
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Lorena690&repo=Spring-Boot-Equipos&theme=dracula)](https://github.com/Lorena690/Spring-Boot-Equipos)
+
+
 - :white_check_mark: Proyecto Usuarios Spring Boot - Proyecto en Java y Spring Boot en el cual se maneja un crud para el usuario y manejo de JWT.
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Lorena690&repo=Usuarios-Spring-Boot&theme=dracula)](https://github.com/Lorena690/Usuarios-Spring-Boot)
+
 
 - :white_check_mark: Proyecto Manage – Proyecto en el cual se realizó un maquetado utilizando HTML semántico y los conceptos principales de CSS.
 
