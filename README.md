@@ -33,6 +33,10 @@ Estudiante de Ingeniería de Sistemas de la Universidad Nacional Abierta y a Dis
 
 ### PROJECTS
 
+- :white_check_mark: LinearCollectionJava - Proyecto donde se manejan estructuras lineales con Java Collections tales como: Lista, Colas y Pilas.
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Lorena690&repo=Spring-Boot-Equipos&theme=dracula)](https://github.com/Lorena690/LinearCollectionJava)
+
 - :white_check_mark: Proyecto Spring Boot Equipos - Proyecto Spring donde se crearon servicios para el manejo de equipos en una liga y se crea la documentación por medio de Swagger.
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Lorena690&repo=Spring-Boot-Equipos&theme=dracula)](https://github.com/Lorena690/Spring-Boot-Equipos)
