@@ -33,7 +33,7 @@ Estudiante de Ingeniería de Sistemas de la Universidad Nacional Abierta y a Dis
 
 ### PROJECTS
 
-- :white_check_mark: Prestamo-SpringBoot - Proyecto donde se utiliza una arquitectura hexagonal para la estructura del proyeccto, además se realizaron pruebas unitarias para probrar todos los casos de uso de los servicios implementados.
+- :white_check_mark: Prestamo-SpringBoot - Proyecto donde se utiliza una arquitectura hexagonal para la estructura del proyecto, además se realizaron pruebas unitarias para probrar todos los casos de uso de los servicios implementados.
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Lorena690&repo=Prestamo-SpringBoot&theme=dracula)](https://github.com/Lorena690/Prestamo-SpringBoot)
 
