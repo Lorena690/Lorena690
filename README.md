@@ -109,4 +109,4 @@ Estudiante de Ingeniería de Sistemas de la Universidad Nacional Abierta y a Dis
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Lorena690&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lorena690&exclude_repo=LSFront1,ExamenPractico1,PrimerExamenII,primerensayo,ProyectoHTML,ProyectoFinalFarmacia,ProyectoSpaMascotas&layout=compact)](https://github.com/Lorena690/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lorena690&exclude_repo=LSFront1,ExamenPractico1,PrimerExamenII,primerensayo,ProyectoHTML,AnalisisDeDatosEtapa2,ProyectoFinalFarmacia,ProyectoSpaMascotas&layout=compact)](https://github.com/Lorena690/github-readme-stats)
