@@ -39,7 +39,7 @@ Estudiante de Ingeniería de Sistemas de la Universidad Nacional Abierta y a Dis
 
 - :white_check_mark: clinica-back - Proyecto Spring donde se utiliza una arquitectura por capas para la estructura del proyecto, además se realizaron pruebas unitarias para probar todos los casos de uso de los servicios implementados.
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Lorena690&repo=clinica-back&theme=dracula)](https://github.com/Lorena690/clinica-back)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Lorena690&repo=adn-clinicaodontologica-back-lorena-sanchez-main&theme=dracula)](https://github.com/Lorena690/adn-clinicaodontologica-back-lorena-sanchez-main)
 
 - :white_check_mark: Prestamo-SpringBoot - Proyecto donde se utiliza una arquitectura hexagonal para la estructura del proyecto, además se realizaron pruebas unitarias para probar todos los casos de uso de los servicios implementados.
 
