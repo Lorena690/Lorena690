@@ -18,7 +18,7 @@
 ---
 
 ### :woman_technologist: ABOUT ME :
-Estudiante comprometida de Ingeniería de Sistemas en la Universidad Nacional Abierta y a Distancia y becaria privilegiada del programa Certified Tech Developer en Digital House, me encuentro lista para despegar en mi carrera como desarrolladora de software, con un fervor incansable para aplicar los conocimientos y habilidades adquiridos en mis experiencias laborales previas para resolver los desafíos más intrincados de la vida real con elegantes soluciones de ingeniería.
+Estudiante comprometida de Ingeniería de Sistemas en la Universidad Nacional Abierta y a Distancia y becaria privilegiada del programa Certified Tech Developer en Digital House, me encuentro lista para despegar en mi carrera como desarrolladora de software, con un fervor incansable para aplicar los conocimientos y habilidades adquiridos en mis experiencias laborales previas, las cuales me han equipado con un sentido de trabajo en equipo y un sólido conocimiento que estoy ansiosa por poner en práctica en futuros desafíos.
 ### EDUCATION
 
 - :book: Digital House – Cali, Valle del Cauca
