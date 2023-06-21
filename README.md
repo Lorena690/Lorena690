@@ -32,7 +32,7 @@
 
 Aquí tienes una versión optimizada y enriquecida de la sección de experiencia, adecuada para atraer la atención en el sector de TI:
 
-💼 ### EXPERIENCIA PROFESIONAL
+### 💼 EXPERIENCIA PROFESIONAL
 
 :deciduous_tree: Ceiba Software House S.A.S.
 🌟 Desarrolladora Java
