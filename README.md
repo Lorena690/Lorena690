@@ -35,9 +35,9 @@ Aquí tienes una versión optimizada y enriquecida de la sección de experiencia
 ### 💼 EXPERIENCIA PROFESIONAL
 
 :deciduous_tree: Ceiba Software House S.A.S.
-🌟 Desarrolladora Java
-📅 Diciembre 2022 - Presente
-🌍 Remoto
+🌟 - Desarrolladora Java
+📅 - Diciembre 2022 - Presente
+🌍 - Remoto
 
 🎯 Responsabilidades Clave:
 
@@ -59,7 +59,7 @@ Angular: Utilizo Angular para desarrollar aplicaciones web de una sola página, 
 
 Base de Datos: Aseguro la gestión eficiente de datos mediante el diseño y la implementación de bases de datos optimizadas.
 
-🚀 Impacto: Mi contribución como Desarrolladora Java en Ceiba Software House ha sido instrumental en fortalecer la cartera de soluciones de la empresa, garantizando la satisfacción del cliente y fomentando relaciones a largo plazo.
+🚀 Impacto: Mi contribución como Desarrolladora Java en Ceiba Software House ha sido analizar, diseñar y desarrollar software con altos estándares de calidad y valor agregado para los clientes, con el fin de fomentar relaciones a largo plazo.
 
 ### EDUCATION
 
