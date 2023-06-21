@@ -18,7 +18,49 @@
 ---
 
 ### :woman_technologist: ABOUT ME :
-Estudiante comprometida de Ingeniería de Sistemas en la Universidad Nacional Abierta y a Distancia y becaria privilegiada del programa Certified Tech Developer en Digital House, me encuentro lista para despegar en mi carrera como desarrolladora de software, con un fervor incansable para aplicar los conocimientos y habilidades adquiridos en mis experiencias laborales previas, las cuales me han equipado con un sentido de trabajo en equipo y un sólido conocimiento que estoy ansiosa por poner en práctica en futuros desafíos.
+🚀 Impulsando la Innovación Tecnológica: Como estudiante en la vanguardia de la Ingeniería de Sistemas en la Universidad Nacional Abierta y a Distancia, y beneficiaria de una beca exclusiva en el prestigioso programa Certified Tech Developer en Digital House, me dedico con fervor a explorar y dominar las últimas tendencias tecnológicas.
+
+🔧 Artífice de Soluciones Prácticas: Mi pasión radica en abordar los desafíos del mundo real con destreza ingenieril, y trascender los límites convencionales para materializar soluciones eficientes y disruptivas.
+
+🌟 Comenzando un Viaje Transformador: Me encuentro en el umbral de un emocionante viaje como Desarrolladora de Software, armada con una sed insaciable de aprendizaje y un entusiasmo contagioso por marcar la diferencia.
+
+🔗 Colaboración sin Fronteras: Estoy comprometida en desplegar mi experiencia y conocimientos adquiridos para enriquecer equipos dinámicos. Mi background me ha dotado de la versatilidad y la capacidad para conectar ideas y personas, y conjugar esfuerzos para lograr sinergias poderosas.
+
+🎯 Aportando Valor Único: Si buscas a alguien que no solo codifique, sino que también entienda el panorama más amplio, con una mentalidad enfocada en el crecimiento y la adaptabilidad, estoy aquí para aportar una perspectiva fresca y energía renovadora.
+
+🤝 Hagamos Contacto!: Estoy ansiosa por establecer conexiones significativas y contribuir activamente en proyectos que estén revolucionando la industria. Si compartes una visión de progreso y estás interesado en colaborar con una mente joven y audaz, no dudes en contactarme. ¡Hagamos que lo increíble suceda juntos!
+
+Aquí tienes una versión optimizada y enriquecida de la sección de experiencia, adecuada para atraer la atención en el sector de TI:
+
+💼 ### EXPERIENCIA PROFESIONAL
+
+:deciduous_tree: Ceiba Software House S.A.S.
+🌟 Desarrolladora Java
+📅 Diciembre 2022 - Presente
+🌍 Remoto
+
+🎯 Responsabilidades Clave:
+
+Arquitectura de Vanguardia: Implemento y orquesto soluciones de software robustas, asegurando una arquitectura escalable y de alto rendimiento que se alinea con las necesidades comerciales de los clientes.
+
+🔨 Herramientas y Tecnologías:
+
+Java 11: Utilizo las características modernas de Java para garantizar código limpio y eficiente.
+
+Spring Boot: Implemento esta poderosa herramienta para simplificar el proceso de configuración y permitir la creación rápida de aplicaciones en producción.
+
+Mockito, JDBC, JPA: Utilizo estas tecnologías para asegurar la integridad y el rendimiento de las bases de datos, y realizar pruebas de alta calidad.
+
+Servicios REST: Diseño e implemento APIs RESTful que permiten la comunicación eficiente entre sistemas.
+
+HTML, JavaScript, CSS: Creo interfaces de usuario atractivas y funcionales que mejoran la experiencia del usuario.
+
+Angular: Utilizo Angular para desarrollar aplicaciones web de una sola página, ricas en funciones y altamente interactivas.
+
+Base de Datos: Aseguro la gestión eficiente de datos mediante el diseño y la implementación de bases de datos optimizadas.
+
+🚀 Impacto: Mi contribución como Desarrolladora Java en Ceiba Software House ha sido instrumental en fortalecer la cartera de soluciones de la empresa, garantizando la satisfacción del cliente y fomentando relaciones a largo plazo.
+
 ### EDUCATION
 
 - :book: Digital House – Cali, Valle del Cauca
