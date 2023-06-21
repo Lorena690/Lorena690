@@ -11,8 +11,7 @@
 </div>
 <div id="viewers" align="center">
 <h1>
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Donegal+One&pause=1000&color=001CB1&center=FALSO&vCenter=FALSO&repeat=verdadero&width=435&lines=%C2%A1Hola%2C+soy+Lorena!"     alt="Typing SVG" /></a>
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Donegal+One&pause=1000&color=001CB1&center=FALSO&vCenter=TRUE&repeat=verdadero&width=435&lines=%C2%A1Hola%2C+soy+Lorena!"     alt="Typing SVG" /></a><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 </div>
 ---
