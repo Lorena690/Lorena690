@@ -18,25 +18,23 @@
 ---
 
 ### :woman_technologist: ABOUT ME :
-🚀 Impulsando la Innovación Tecnológica: Estudiante de Ingeniería de Sistemas en la Universidad Nacional Abierta y a Distancia, y beneficiaria de una beca exclusiva en el prestigioso programa Certified Tech Developer en Digital House, me dedico con fervor a explorar y dominar las últimas tendencias tecnológicas.
+🎓 Impulsando la Innovación Tecnológica: Como estudiante de Ingeniería de Sistemas en la Universidad Nacional Abierta y a Distancia y beneficiaria de una beca exclusiva en el prestigioso programa Certified Tech Developer en Digital House, me he sumergido en la frontera de las tendencias tecnológicas, siempre buscando ampliar mis horizontes y habilidades.
 
-🔧 Artífice de Soluciones Prácticas: Mi pasión radica en abordar los desafíos del mundo real con destreza ingenieril, y trascender los límites convencionales para materializar soluciones eficientes y disruptivas.
+🔧 Resolviendo Desafíos con Ingenio: Me apasiona aplicar el pensamiento ingenieril para desarrollar soluciones prácticas y eficientes que aborden desafíos del mundo real, poniendo la innovación en el corazón de mi enfoque.
 
-🌟 Comenzando un Viaje Transformador: Me encuentro en el umbral de un emocionante viaje como Desarrolladora de Software, armada con una sed insaciable de aprendizaje y un entusiasmo contagioso por marcar la diferencia.
+🌟 Embarcándome en un Camino de Crecimiento: Con entusiasmo y determinación, estoy dando mis primeros pasos en una emocionante carrera como Desarrolladora de Software, comprometida con el aprendizaje continuo y el mejoramiento personal.
 
-🔗 Colaboración sin Fronteras: Estoy comprometida en desplegar mi experiencia y conocimientos adquiridos para enriquecer equipos dinámicos. Mi background me ha dotado de la versatilidad y la capacidad para conectar ideas y personas, y conjugar esfuerzos para lograr sinergias poderosas.
+👥 Fomentando la Colaboración y la Empatía: Reconozco que el trabajo en equipo y la empatía son pilares esenciales para el éxito. Me esfuerzo por comprender las necesidades y perspectivas de los demás, y creo en unir fuerzas y talentos para lograr objetivos comunes.
 
-🎯 Aportando Valor Único: Si buscas a alguien que no solo codifique, sino que también entienda el panorama más amplio, con una mentalidad enfocada en el crecimiento y la adaptabilidad, estoy aquí para aportar una perspectiva fresca y energía renovadora.
+🔗 Uniendo Tecnología y Humanidad: Mi enfoque no solo reside en la tecnología, sino también en cómo puede servir y mejorar la vida de las personas. Me concentro en desarrollar soluciones que sean no solo técnicamente sólidas, sino también humanamente significativas.
 
-🤝 Hagamos Contacto!: Estoy ansiosa por establecer conexiones significativas y contribuir activamente en proyectos que estén revolucionando la industria. Si compartes una visión de progreso y estás interesado en colaborar con una mente joven y audaz, no dudes en contactarme. ¡Hagamos que lo increíble suceda juntos!
-
-Aquí tienes una versión optimizada y enriquecida de la sección de experiencia, adecuada para atraer la atención en el sector de TI:
+🤝 Construyamos Juntos el Futuro: Si estás buscando una colaboradora que combine habilidades técnicas con un enfoque humano y valores de empatía y trabajo en equipo, me encantaría conectar contigo. Juntos, podemos marcar la diferencia y dar forma al futuro de la tecnología con un toque humano. ¡Hagámoslo posible!
 
 ### 💼 EXPERIENCIA PROFESIONAL
 
 :deciduous_tree: Ceiba Software House S.A.S.
 
-🌟 Desarrolladora Java
+💻 Desarrolladora Java
 
 📅 Diciembre 2022 - Presente
 
