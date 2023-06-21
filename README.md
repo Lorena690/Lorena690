@@ -11,7 +11,7 @@
 </div>
 <div id="viewers" align="center">
 <h1>
-  [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=%C2%A1Hola%2C+soy+Lorena!;Second+line+of+text)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=¡Hola+soy+Lorena!;Second+line+of+text)](https://git.io/typing-svg)
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/
 </h1>
 </div>
