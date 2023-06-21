@@ -18,7 +18,7 @@
 ---
 
 ### :woman_technologist: ABOUT ME :
-🚀 Impulsando la Innovación Tecnológica: Como estudiante en la vanguardia de la Ingeniería de Sistemas en la Universidad Nacional Abierta y a Distancia, y beneficiaria de una beca exclusiva en el prestigioso programa Certified Tech Developer en Digital House, me dedico con fervor a explorar y dominar las últimas tendencias tecnológicas.
+🚀 Impulsando la Innovación Tecnológica: Estudiante de Ingeniería de Sistemas en la Universidad Nacional Abierta y a Distancia, y beneficiaria de una beca exclusiva en el prestigioso programa Certified Tech Developer en Digital House, me dedico con fervor a explorar y dominar las últimas tendencias tecnológicas.
 
 🔧 Artífice de Soluciones Prácticas: Mi pasión radica en abordar los desafíos del mundo real con destreza ingenieril, y trascender los límites convencionales para materializar soluciones eficientes y disruptivas.
 
