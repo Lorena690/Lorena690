@@ -11,11 +11,11 @@
 </div>
 <div id="viewers" align="center">
 <h1>
- <p align="center">
-  <a href="https://github.com/Lorena">
-    <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&multiline=true&width=450&lines=%C2%A1Hola%2C+soy+Lorena!;Bienvenido+a+mi+perfil+de+GitHub!">
+<p align="center">
+  <a href="https://github.com/Lorena" style="display:inline-block;">
+    <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&multiline=true&width=350&lines=%C2%A1Hola%2C+soy+Lorena!" alt="Typing SVG" style="display:inline;"/>
   </a>
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" style="display:inline;"/>
 </p>
 </h1>
 </div>
