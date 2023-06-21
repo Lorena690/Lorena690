@@ -35,9 +35,12 @@ Aquí tienes una versión optimizada y enriquecida de la sección de experiencia
 ### 💼 EXPERIENCIA PROFESIONAL
 
 :deciduous_tree: Ceiba Software House S.A.S.
-🌟 - Desarrolladora Java
-📅 - Diciembre 2022 - Presente
-🌍 - Remoto
+
+🌟 Desarrolladora Java
+
+📅 Diciembre 2022 - Presente
+
+🌍 Remoto
 
 🎯 Responsabilidades Clave:
 
