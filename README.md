@@ -12,9 +12,10 @@
 <div id="viewers" align="center">
 <h1>
 <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&width=500&lines=%C2%A1Hola%2C+soy+Lorena!;%C2%A1Bienvenid@+a+mi+perfil+de+GitHub!">
+    <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&width=500&lines=%C2%A1Hola%2C+soy+Lorena!;Bienvenido+a+mi+perfil+de+GitHub!&color=4682B4">
     <a href="https://github.com/Lorena"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" align="top"></a>
 </p>
+  
 </h1>
 </div>
 ---
