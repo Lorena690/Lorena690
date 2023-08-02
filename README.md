@@ -70,7 +70,7 @@ Base de Datos: Aseguro la gestión eficiente de datos mediante el diseño y la i
 ### EDUCATION
 
 - :book: Digital House – Cali, Valle del Cauca
--Certified Tech Developer. Octubre 2021 – Actualmente 
+-Certified Tech Developer. Octubre 2021 – Junio 2023 
 
 - :book: Universidad Nacional Abierta y a Distancia – Palmira, Valle del Cauca
 -Ingeniería de Sistemas. Agosto 2021 – Actualmente
