@@ -76,6 +76,10 @@ Base de Datos: Aseguro la gestión eficiente de datos mediante el diseño y la i
 
 ### PROJECTS
 
+- :white_check_mark: DigitalBooking - Proyecto que representa una emocionante combinación de tecnologías y buenas prácticas en el desarrollo de aplicaciones web. Utilizando Java y Spring Boot, hemos diseñado una arquitectura hexagonal para organizar nuestro código de manera eficiente y flexible. Esto nos permite mantener una separación clara entre las distintas capas del sistema y facilita su escalabilidad y mantenimiento. Para garantizar la calidad y robustez del backend, se han implementado pruebas unitarias exhaustivas que cubren todos los casos de uso de los servicios. En cuanto al frontend, hemos empleado React, aprovechando todo el conocimiento adquirido durante el curso, para construir una interfaz de usuario moderna, interactiva y atractiva.
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Lorena690&repo=DigitalBooking&theme=dracula)](https://github.com/Lorena690/DigitalBooking)
+
 - :white_check_mark: Clinica-Odontológica - Proyecto Spring donde se utiliza una arquitectura por capas para la estructura del proyecto, además se realizaron pruebas unitarias para probar todos los casos de uso de los servicios implementados.
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Lorena690&repo=Clinica-Odontologica&theme=dracula)](https://github.com/Lorena690/Clinica-Odontologica)
