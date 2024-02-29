@@ -30,7 +30,7 @@
 
 👥 Reconozco que el trabajo en equipo y la empatía son pilares esenciales para el éxito. Me esfuerzo por comprender las necesidades y perspectivas de los demás, y creo en unir fuerzas y talentos para lograr objetivos comunes.
 
-### 💼 EXPERIENCIA PROFESIONAL
+### 💼 EXPERIENCE :
 
 :deciduous_tree: Ceiba Software House S.A.S.
 
@@ -62,7 +62,7 @@ Base de Datos: Aseguro la gestión eficiente de datos mediante el diseño y la i
 
 🚀 Impacto: Mi contribución como Desarrolladora Java en Ceiba Software House ha sido analizar, diseñar y desarrollar software con altos estándares de calidad y valor agregado para los clientes, con el fin de fomentar relaciones a largo plazo.
 
-### EDUCATION
+### EDUCATION :
 
 - :book: Digital House – Cali, Valle del Cauca
 -Certified Tech Developer. Octubre 2021 – Junio 2023 
@@ -73,7 +73,7 @@ Base de Datos: Aseguro la gestión eficiente de datos mediante el diseño y la i
 - :book: Universidad Nacional Abierta y a Distancia – Palmira, Valle del Cauca 
 -Tecnología en Regencia de Farmacia. Julio 2017 – Marzo 2021 
 
-### PROJECTS
+### PROJECTS :
 
 - :white_check_mark: DigitalBooking - Proyecto final presentado para culminar la Certificación Tech Developer y realizado en equipo manteniendo una comunicación asertiva y colaboración constante, que representa una emocionante combinación de tecnologías y buenas prácticas en el desarrollo de aplicaciones web. Utilizando Java con Spring Boot, hemos diseñado una arquitectura hexagonal para organizar nuestro código de manera eficiente y flexible. Esto nos permite mantener una separación clara entre las distintas capas del sistema y facilita su escalabilidad y mantenimiento. Para garantizar la calidad y robustez del backend, se han implementado pruebas unitarias exhaustivas que cubren todos los casos de uso de los servicios. En cuanto al frontend, hemos empleado React, aprovechando todo el conocimiento adquirido durante el curso, para construir una interfaz de usuario moderna, interactiva y atractiva.
 
