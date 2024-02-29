@@ -24,11 +24,11 @@
 
 ### :woman_technologist: ABOUT ME :
 
-🔧 Resolviendo Desafíos con Ingenio: Me apasiona aplicar los conocimientos adquiridos para desarrollar soluciones prácticas y eficientes que aborden desafíos del mundo real, poniendo la innovación en el corazón de mi enfoque.
+🔧 Me apasiona aplicar los conocimientos adquiridos para desarrollar soluciones prácticas y eficientes que aborden desafíos del mundo real, poniendo la innovación en el corazón de mi enfoque.
 
-🌟 Embarcándome en un Camino de Crecimiento: Con entusiasmo y determinación, estoy dando mis primeros pasos en una emocionante carrera como Desarrolladora de Software, comprometida con el aprendizaje continuo y el mejoramiento personal.
+🌟 Con entusiasmo y determinación, estoy dando mis primeros pasos en una emocionante carrera como Desarrolladora de Software, comprometida con el aprendizaje continuo y el mejoramiento personal.
 
-👥 Fomentando la Colaboración y la Empatía: Reconozco que el trabajo en equipo y la empatía son pilares esenciales para el éxito. Me esfuerzo por comprender las necesidades y perspectivas de los demás, y creo en unir fuerzas y talentos para lograr objetivos comunes.
+👥 Reconozco que el trabajo en equipo y la empatía son pilares esenciales para el éxito. Me esfuerzo por comprender las necesidades y perspectivas de los demás, y creo en unir fuerzas y talentos para lograr objetivos comunes.
 
 ### 💼 EXPERIENCIA PROFESIONAL
 
