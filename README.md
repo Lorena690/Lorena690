@@ -34,7 +34,7 @@
 
 :deciduous_tree: Ceiba Software House S.A.S.
 
-💻 Desarrolladora Java
+💻 Desarrolladora FullStack
 
 📅 Diciembre 2022 - Presente
 
