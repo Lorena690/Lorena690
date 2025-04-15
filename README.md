@@ -68,7 +68,7 @@ Base de Datos: Aseguro la gestión eficiente de datos mediante el diseño y la i
 -Certified Tech Developer. Octubre 2021 – Junio 2023 
 
 - :book: Universidad Nacional Abierta y a Distancia – Palmira, Valle del Cauca
--Ingeniería de Sistemas. Agosto 2021 – Actualmente
+-Ingeniería de Sistemas. Agosto 2021 – Diciembre 2024
 
 - :book: Universidad Nacional Abierta y a Distancia – Palmira, Valle del Cauca 
 -Tecnología en Regencia de Farmacia. Julio 2017 – Marzo 2021 
