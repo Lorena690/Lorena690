@@ -32,6 +32,34 @@
 
 ### 💼 EXPERIENCE :
 
+🌈 Accenture Colombia
+
+💻 Desarrolladora Backend
+
+📅 Julio 2024 - Actualidad
+
+🌍 Remoto
+
+🎯 Responsabilidades Clave:
+
+Desarrollo de microservicios escalables y de alto rendimiento utilizando Java y Spring Boot.
+
+Implementación de APIs REST para facilitar la integración con sistemas externos.
+
+Gestión de pipelines de CI/CD con Azure DevOps y despliegues automatizados en AWS.
+
+Participación activa en proyectos gestionados bajo metodologías ágiles, especialmente Scrum.
+
+🔨 Herramientas y Tecnologías:
+
+Java 17, Spring Boot 3, REST APIs
+
+Azure DevOps, AWS, Docker
+
+Metodologías ágiles (Scrum)
+
+🚀 Impacto: Como parte del equipo backend en Accenture, estoy contribuyendo al desarrollo de soluciones empresariales de alto impacto, enfocadas en escalabilidad, rendimiento y buenas prácticas de integración continua y entrega continua.
+
 :deciduous_tree: Ceiba Software House S.A.S.
 
 💻 Desarrolladora FullStack
