@@ -36,7 +36,7 @@
 
 💻 Desarrolladora FullStack
 
-📅 Diciembre 2022 - Presente
+📅 Diciembre 2022 - Julio 2024
 
 🌍 Remoto
 
