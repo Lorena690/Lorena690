@@ -108,24 +108,6 @@ Java 11, Spring Boot, Angular, JavaScript, HTML, CSS, APIs REST, JDBC, JPA, JUni
 
 Contribuí a la creación de soluciones robustas y mantenibles con altos estándares de calidad, orientadas a generar valor para los clientes y facilitar la evolución a largo plazo de los productos.
 
-🔨 Herramientas y Tecnologías:
-
-Java 11: Utilizo las características modernas de Java para garantizar código limpio y eficiente.
-
-Spring Boot: Implemento esta poderosa herramienta para simplificar el proceso de configuración y permitir la creación rápida de aplicaciones en producción.
-
-Mockito, JDBC, JPA: Utilizo estas tecnologías para asegurar la integridad y el rendimiento de las bases de datos, y realizar pruebas de alta calidad.
-
-Servicios REST: Diseño e implemento APIs RESTful que permiten la comunicación eficiente entre sistemas.
-
-HTML, JavaScript, CSS: Creo interfaces de usuario atractivas y funcionales que mejoran la experiencia del usuario.
-
-Angular: Utilizo Angular para desarrollar aplicaciones web de una sola página, ricas en funciones y altamente interactivas.
-
-Base de Datos: Aseguro la gestión eficiente de datos mediante el diseño y la implementación de bases de datos optimizadas.
-
-🚀 Impacto: Mi contribución como Desarrolladora Java en Ceiba Software House ha sido analizar, diseñar y desarrollar software con altos estándares de calidad y valor agregado para los clientes, con el fin de fomentar relaciones a largo plazo.
-
 ### EDUCATION :
 
 - :book: Digital House – Cali, Valle del Cauca
