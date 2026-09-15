@@ -16,61 +16,97 @@
     <a href="https://github.com/Lorena"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" align="top"></a>
 </p>
 <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?center=true&pause=800&vCenter=true&width=500&lines=BackEnd+Developer;FrontEnd+Developer;FullStack+Developer&color=4682B4">
+    <img src="https://readme-typing-svg.herokuapp.com?center=true&pause=800&vCenter=true&width=600&lines=Backend+Developer;Full+Stack+Developer;Java+%26+Spring+Boot;AI+Agents+%26+Automation&color=4682B4">
 </p>
 </h1>
 </div>
 ---
 
-### :woman_technologist: ABOUT ME :
+### 👩‍💻 SOBRE MÍ
 
-🔧 Me apasiona aplicar los conocimientos adquiridos para desarrollar soluciones prácticas y eficientes que aborden desafíos del mundo real, poniendo la innovación en el corazón de mi enfoque.
+🔧 Soy desarrolladora de software con experiencia en la construcción de soluciones backend y full stack para entornos empresariales. Me especializo en Java, Spring Boot y el desarrollo de APIs REST, complementando mi perfil con experiencia en Angular, arquitectura de software, servicios en la nube y automatización de procesos.
 
-🌟 Con entusiasmo y determinación, estoy dando mis primeros pasos en una emocionante carrera como Desarrolladora de Software, comprometida con el aprendizaje continuo y el mejoramiento personal.
+🤖 Me interesa especialmente la aplicación de inteligencia artificial en el desarrollo de software. He trabajado en la implementación de agentes de IA y en el uso de herramientas de desarrollo asistido para optimizar procesos, facilitar el análisis de información y mejorar los flujos de trabajo.
 
-👥 Reconozco que el trabajo en equipo y la empatía son pilares esenciales para el éxito. Me esfuerzo por comprender las necesidades y perspectivas de los demás, y creo en unir fuerzas y talentos para lograr objetivos comunes.
+🌱 Disfruto afrontar nuevos desafíos técnicos, aprender continuamente y construir soluciones mantenibles, escalables y orientadas a las necesidades del negocio.
 
-### 💼 EXPERIENCE :
+🤝 Valoro el trabajo en equipo, la comunicación y la empatía como elementos fundamentales para colaborar eficazmente y alcanzar objetivos comunes.
 
-🌈 Accenture Colombia
+---
 
-💻 Desarrolladora Backend
+### 💼 EXPERIENCIA PROFESIONAL
 
-📅 Julio 2024 - Actualidad
+#### 🌈 IAS SOFTWARE
 
-🌍 Remoto
+**💻 Desarrolladora Backend**  
+📅 Mayo 2026 – Actualidad  
+🌍 Colombia · Remoto  
 
-🎯 Responsabilidades Clave:
+🎯 **Responsabilidades y contribuciones:**
 
-Desarrollo de microservicios escalables y de alto rendimiento utilizando Java y Spring Boot.
+- Desarrollo y mantenimiento de servicios backend, APIs REST y lógica de negocio utilizando Java y Spring Boot.
+- Diseño e implementación de soluciones orientadas a la mantenibilidad, escalabilidad y correcta integración entre sistemas.
+- Desarrollo de funcionalidades y componentes en Angular, integrados con los servicios backend.
+- Implementación e integración de agentes de inteligencia artificial para automatizar procesos, apoyar el análisis de información y optimizar flujos de trabajo.
+- Análisis y resolución de incidencias, validación de soluciones mediante pruebas y seguimiento de su correcto funcionamiento.
+- Colaboración con equipos multidisciplinarios bajo metodologías ágiles, participando en la planificación, desarrollo y entrega de nuevas funcionalidades.
 
-Implementación de APIs REST para facilitar la integración con sistemas externos.
+🔨 **Herramientas y tecnologías:**
 
-Gestión de pipelines de CI/CD con Azure DevOps y despliegues automatizados en AWS.
+Java, Spring Boot, APIs REST, Angular, agentes de IA, pruebas de software y metodologías ágiles.
 
-Participación activa en proyectos gestionados bajo metodologías ágiles, especialmente Scrum.
+---
 
-🔨 Herramientas y Tecnologías:
+#### 🌈 Accenture Colombia
 
-Java 17, Spring Boot 3, REST APIs
+**💻 Desarrolladora Backend**  
+📅 Julio 2024 – Mayo 2026  
+🌍 Colombia · Remoto  
 
-Azure DevOps, AWS, Docker
+🎯 **Responsabilidades y logros:**
 
-Metodologías ágiles (Scrum)
+- Liderazgo técnico en el desarrollo y evolución de microservicios críticos utilizando Java y Spring Boot.
+- Reducción aproximada del 40 % en los tiempos de codificación y depuración mediante la incorporación de flujos de desarrollo asistidos por Claude Code.
+- Diseño e implementación de APIs REST para la integración segura y eficiente con sistemas internos y externos.
+- Participación en el diseño de arquitecturas escalables sobre AWS, orientadas a la alta disponibilidad y al procesamiento de grandes volúmenes de información.
+- Implementación y mantenimiento de pipelines de CI/CD con Azure DevOps, incluyendo validaciones automatizadas de calidad y seguridad.
+- Automatización de despliegues en AWS y acompañamiento a los procesos de integración y entrega continua.
+- Colaboración con equipos multidisciplinarios en proyectos desarrollados bajo metodologías ágiles, especialmente Scrum.
 
-🚀 Impacto: Como parte del equipo backend en Accenture, estoy contribuyendo al desarrollo de soluciones empresariales de alto impacto, enfocadas en escalabilidad, rendimiento y buenas prácticas de integración continua y entrega continua.
+🔨 **Herramientas y tecnologías:**
 
-:deciduous_tree: Ceiba Software House S.A.S.
+Java 17, Spring Boot 3, APIs REST, arquitectura de microservicios, AWS, Azure DevOps, Docker, CI/CD, Claude Code y Scrum.
 
-💻 Desarrolladora FullStack
+🚀 **Impacto:**
 
-📅 Diciembre 2022 - Julio 2024
+Contribuí al desarrollo de soluciones empresariales de alto impacto, fortaleciendo la escalabilidad, la calidad del código y la eficiencia del ciclo de desarrollo mediante automatización y herramientas de inteligencia artificial.
 
-🌍 Remoto
+---
 
-🎯 Responsabilidades Clave:
+#### 🌳 Ceiba Software
 
-Arquitectura de Vanguardia: Implemento y orquesto soluciones de software robustas, asegurando una arquitectura escalable y de alto rendimiento que se alinea con las necesidades comerciales de los clientes.
+**💻 Desarrolladora Full Stack**  
+📅 Diciembre 2022 – Julio 2024  
+🌍 Tuluá, Valle del Cauca, Colombia · Remoto  
+
+🎯 **Responsabilidades y logros:**
+
+- Análisis, diseño y desarrollo de soluciones de software para plataformas empresariales y del sector financiero.
+- Implementación de soluciones basadas en arquitectura hexagonal, favoreciendo el desacoplamiento, la mantenibilidad y la evolución del software.
+- Desarrollo de servicios backend y APIs REST con Java y Spring Boot.
+- Construcción de interfaces web dinámicas con Angular, integradas con servicios backend.
+- Diseño e implementación de mecanismos de persistencia utilizando JDBC y JPA.
+- Creación y mantenimiento de pruebas unitarias con JUnit y Mockito, alcanzando una cobertura superior al 90 %.
+- Aplicación de buenas prácticas de programación, principios SOLID y estándares de calidad durante todo el ciclo de desarrollo.
+- Participación activa en equipos ágiles, contribuyendo al análisis de requerimientos, la estimación y la entrega continua de valor.
+
+🔨 **Herramientas y tecnologías:**
+
+Java 11, Spring Boot, Angular, JavaScript, HTML, CSS, APIs REST, JDBC, JPA, JUnit, Mockito, arquitectura hexagonal y bases de datos relacionales.
+
+🚀 **Impacto:**
+
+Contribuí a la creación de soluciones robustas y mantenibles con altos estándares de calidad, orientadas a generar valor para los clientes y facilitar la evolución a largo plazo de los productos.
 
 🔨 Herramientas y Tecnologías:
 
